@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42119'
     url: http://www.gutenberg.org/2009/agents/42119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43298#The-Riddle-and-the-Ringor-Won-by-Nerve
 gutenberg_issued: '2013-07-24'
 gutenberg_type: Text
 identifiers:
