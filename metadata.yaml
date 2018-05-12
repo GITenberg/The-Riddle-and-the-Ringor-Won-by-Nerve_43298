@@ -1,0 +1,27 @@
+_repo: The-Riddle-and-the-Ringor-Won-by-Nerve_43298
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43298-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: MacLaren, Gordon
+    gutenberg_agent_id: '42119'
+    url: http://www.gutenberg.org/2009/agents/42119
+description: ''
+gutenberg_issued: '2013-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Dime novels'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+title: The Riddle and the Ring; or, Won by Nerve
+url: http://www.gutenberg.org/ebooks/43298
